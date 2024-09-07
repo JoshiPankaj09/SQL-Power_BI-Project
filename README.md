@@ -3,6 +3,10 @@
 # Overview
 
 This Power BI and SQL project analyzes a classic car retailer's sales data, aiding the team in understanding sales trends, optimizing inventory, gaining insights into customer behavior and employees performance.
+![Project Screenshot](https://github.com/JoshiPankaj09/IMAGES/blob/main/Screenshot%202024-03-08%20173321.png?raw=true)
+![Project Screenshot](https://github.com/JoshiPankaj09/IMAGES/blob/main/Screenshot%202024-03-30%20132923.png?raw=true)
+![Project Screenshot](https://github.com/JoshiPankaj09/IMAGES/blob/main/Screenshot%202024-03-30%20133017.png?raw=true)
+
 
 # Objectives
 
